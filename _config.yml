@@ -42,11 +42,11 @@ social:
   email: fadhilko@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    #  - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/fadh1l # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/fadhil-kolakkadan
 
 google_site_verification:               # fill in to your verification string
 
@@ -71,7 +71,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:  dark
+theme_mode:
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -81,7 +81,7 @@ theme_mode:  dark
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://media-exp1.licdn.com/dms/image/C5603AQGItgB1oQrV4w/profile-displayphoto-shrink_400_400/0/1619759062437?e=1665619200&v=beta&t=ERy8ezqY-lVpL9C37uKzKSKF70QXo9SZKbJk3jFtC4g
 
 # boolean type, the global switch for ToC in posts.
 toc: true
