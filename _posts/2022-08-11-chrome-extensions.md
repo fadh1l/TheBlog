@@ -1,12 +1,12 @@
 ---
 title: Browsing, but faster with vimium.
-date: 2022-08-09 19:00:00 +5300
-categories: [linux, pdf-viewer]
-tags: [vim, linux, pdf-viewer, zathura, borderless]   
+date: 2022-08-11 18:00:00 +5300
+categories: [Browser-extension,vimium]
+tags: [vim, browser, extension]   
 ---
 
 # Vimium 
-![vimium](/fadh1l.github.io-blog/_posts/assets/post2-vimium.png "vimium")
+![vimium](https://raw.githubusercontent.com/fadh1l/TheBlog/main/_posts/assets/post2-vimium.png "vimium")
 
 There are two different types of people. Those who use **vimium** and then the others who don't.
 
@@ -33,7 +33,7 @@ Enter the world of key-bindings, with vim-like shortcuts to everything all the m
 - ``o`` - open new tab
 
 *Rest of the key bindings are below*
-![vimium shortcuts](/fadh1l.github.io-blog/_posts/assets/post2-vimium2.png "vimium shortcuts")
+![vimium shortcuts](https://raw.githubusercontent.com/fadh1l/TheBlog/main/_posts/assets/post2-vimium2.png "vimium shortcuts")
 
 ## Some things to note
 
@@ -44,7 +44,7 @@ If you are used to using vim as a text editor then the whole thing is just an ex
 
 Simply searching using ``o`` searches the history for the search result. The O stands for ominbar
 
-![vimium search](/fadh1l.github.io-blog/_posts/assets/post2-vimium3.png "vimium search")
+![vimium search](https://raw.githubusercontent.com/fadh1l/TheBlog/main/_posts/assets/post2-vimium3.png"vimium search")
 
 We can add in custom search engines to it.
 * **Google**
@@ -57,13 +57,13 @@ We can add in custom search engines to it.
 
 We can also add in custom search engines like spotify, soundcloud and geeksforgeeks
 
-![vimium search engines](/fadh1l.github.io-blog/_posts/assets/post2-vimium5.png "vimium search engines")
+![vimium search engines](https://raw.githubusercontent.com/fadh1l/TheBlog/main/_posts/assets/post2-vimium5.png "vimium search engines")
 
 Using these search engines we can search directly from the omnibar instead of visiting the website then searching for it.
 
 The ``f`` key binding can be used to follow links in the the page open. So instead of using the mouse to open up links and to click buttons, it can all be done from the comfort of a keyboard
 
-![vimium follow](/fadh1l.github.io-blog/_posts/assets/post2-vimium4.png "vimium follow")
+![vimium follow](https://raw.githubusercontent.com/fadh1l/TheBlog/main/_posts/assets/post2-vimium4.png "vimium follow")
 
 The option ``gi`` can be used to fill in input fields,if multiple fields are present it can be changed using tab button.
 
