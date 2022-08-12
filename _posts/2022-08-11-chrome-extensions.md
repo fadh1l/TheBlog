@@ -1,0 +1,87 @@
+---
+title: Browsing, but faster with vimium.
+date: 2022-08-09 19:00:00 +5300
+categories: [linux, pdf-viewer]
+tags: [vim, linux, pdf-viewer, zathura, borderless]   
+---
+
+# Vimium 
+![vimium](/fadh1l.github.io-blog/_posts/assets/post2-vimium.png "vimium")
+
+There are two different types of people. Those who use **vimium** and then the others who don't.
+
+It makes browsing almost 10x faster, how?
+
+Enter the world of key-bindings, with vim-like shortcuts to everything all the movements are just a couple of keystrokes away.
+
+## Usage
+
+- ``j`` - scroll down
+- ``k`` - scroll up
+- ``h`` - scroll left
+- ``l`` - scroll right
+- ``gg`` - go to top
+- ``G`` - go to bottom
+- ``x`` - close tab
+- ``X`` - reopen closed tab
+- ``J`` - Go to next tab
+- ``K`` - Go to previous tab
+- ``q`` - quit
+- ``r`` - reload
+- ``H`` - go back one tab in history
+- ``L`` - go forward one tab in history
+- ``o`` - open new tab
+
+*Rest of the key bindings are below*
+![vimium shortcuts](/fadh1l.github.io-blog/_posts/assets/post2-vimium2.png "vimium shortcuts")
+
+## Some things to note
+
+There is a small learning curve to they keybindings, but it only takes around one day to get the hang of it.
+If you are used to using vim as a text editor then the whole thing is just an extension of vim, hence the name.
+
+>The search option using ``o`` is by far the most powerful.
+
+Simply searching using ``o`` searches the history for the search result. The O stands for ominbar
+
+![vimium search](/fadh1l.github.io-blog/_posts/assets/post2-vimium3.png "vimium search")
+
+We can add in custom search engines to it.
+* **Google**
+* **Youtube**
+* **Google Images**
+* **Wikipedia**
+* **Duckduckgo**
+* **Bing**
+* **Amazon**
+
+We can also add in custom search engines like spotify, soundcloud and geeksforgeeks
+
+![vimium search engines](/fadh1l.github.io-blog/_posts/assets/post2-vimium5.png "vimium search engines")
+
+Using these search engines we can search directly from the omnibar instead of visiting the website then searching for it.
+
+The ``f`` key binding can be used to follow links in the the page open. So instead of using the mouse to open up links and to click buttons, it can all be done from the comfort of a keyboard
+
+![vimium follow](/fadh1l.github.io-blog/_posts/assets/post2-vimium4.png "vimium follow")
+
+The option ``gi`` can be used to fill in input fields,if multiple fields are present it can be changed using tab button.
+
+## Themes
+
+Many themes are also available to change the color of the omnibar and the overall color accent used by the extension. 
+
+It can be done by changing the css in the settings of the extension.
+
+Personally I use the **dracula** color scheme for which the css is available in the official dracula website.
+
+The above image of the search uses the dracula theme  (violet and orange color scheme).
+
+## Installation
+
+Install the extension from the chrome store. It is that easy.
+
+**One extension to rule them all**
+
+
+
