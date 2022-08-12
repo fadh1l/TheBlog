@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: http://fadh1l.github.io/TheBlog/sitemap.xml
