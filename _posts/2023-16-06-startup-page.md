@@ -25,7 +25,7 @@ Setting up a custom startup page in your web browser allows you to personalize y
 
 ### Chrome
 
-![A picture of my chrome custom page](https://raw.githubusercontent.com/fadh1l/TheBlog/main/_posts/assets/post3-firefox-startpage.png "Lazy kat")
+![A picture of my chrome custom page](https://raw.githubusercontent.com/fadh1l/TheBlog/main/_posts/assets/post3-chrome-startpage.png "Lazy kat")
 
 1. Open Chrome and click on the menu button (three vertical dots) in the top-right corner.
 2. Select "Settings" from the dropdown menu. This will open the Chrome Settings page.
