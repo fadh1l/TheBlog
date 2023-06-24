@@ -1,5 +1,6 @@
 ---
 layout: page
+comments: true
 title: Building a Website with Flask and Integrating a Pickled Machine Learning Model
 date: 2022-12-12 08:00:00 +5300
 categories: [web-development, machine-learning]
