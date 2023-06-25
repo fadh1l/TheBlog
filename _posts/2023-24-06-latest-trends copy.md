@@ -3,6 +3,10 @@ title: The State of Programming; Degrees, Salaries, and Technologies
 date: 2023-06-23 09:00:00 +5300
 categories: [trends]
 tags: [degrees, salaries, programming languages, technologies]
+description: In the world of programming, there are often debates about the importance of having a degree and which programming languages or technologies are the most lucrative. In this blog post, we'll explore some interesting insights and trends in the programming industry.
+seo_custom:
+  - name: keywords
+    content: degrees, salaries, programming languages, technologies
 ---
 
 
