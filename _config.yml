@@ -27,7 +27,7 @@ tagline: Stuff I found interesting   # it will display as the sub-title
 
 description: I blog stuff related to machine learning, deep learning, AI, math, computers and linux
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: http://fadh1l.github.io
+url: http://fadhilko.me/
 
 github:
   username: fadh1l # change to your github username
@@ -54,8 +54,7 @@ google_site_verification:               # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id:                 # fill in your Google Analytics ID
-  # Google Analytics pageviews report settings
+  id: G-KRFVPPB9GN  
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
     cache_path:       # the local PV cache data, friendly to visitors from GFW region
@@ -199,4 +198,5 @@ jekyll-archives:
 
   plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
