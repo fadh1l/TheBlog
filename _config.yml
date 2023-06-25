@@ -25,7 +25,7 @@ title: Fal's Blog # the main title
 
 tagline: Stuff I found interesting   # it will display as the sub-title
 
-description: Here I jot down the things that I figured out recently or somethings that really caught my eye
+description: I blog stuff related to machine learning, deep learning, AI, math, computers and linux
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: http://fadh1l.github.io
 
@@ -196,3 +196,7 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+  plugins:
+  - jekyll-seo-tag
+
