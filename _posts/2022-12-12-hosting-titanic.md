@@ -5,10 +5,9 @@ title: Building a Website with Flask and Integrating a Pickled Machine Learning 
 date: 2022-12-12 08:00:00 +5300
 categories: [web-development, machine-learning]
 tags: [flask, web-development, machine-learning, pickled-model, hosting]
+image: " https://images.unsplash.com/photo-1576669104941-41d3418dfe38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8dGl0YW5pYyxzaGlwfHx8fHx8MTY4NzYxMjk1Mw&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080 "
 ---
 
-
-![Titanic Ship](https://images.unsplash.com/photo-1576669104941-41d3418dfe38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8dGl0YW5pYyxzaGlwfHx8fHx8MTY4NzYxMjk1Mw&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080)
 
 
 Creating a website that incorporates a machine learning model can be an exciting project that combines web development and data science. In this blog post, we will guide you through the process of building a website using Flask, integrating a pickled machine learning model, and hosting the website on PythonAnywhere.
