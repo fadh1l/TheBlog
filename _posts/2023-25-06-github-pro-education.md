@@ -44,5 +44,3 @@ GitHub Pro offers a range of benefits that can greatly enhance your coding exper
 Now that you know how to claim GitHub Pro with a student account and understand its benefits, it's time to get started! Visit the [GitHub Education](https://education.github.com) website, follow the steps outlined above, and unlock the full potential of GitHub Pro.
 
 Harness the power of GitHub Pro to collaborate, showcase your projects, and take your coding skills to the next level. Happy coding!
-
-![GitHub Pro Benefits](/path/to/github-pro-benefits.jpg)
