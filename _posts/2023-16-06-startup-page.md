@@ -3,6 +3,11 @@ title: Setting Up a Custom Startup Page
 date: 2022-10-09 19:00:00 +5300
 categories: [web-browsers]
 tags: [firefox, chrome, startup-page, customization]
+image: "https://raw.githubusercontent.com/fadh1l/TheBlog/main/_posts/assets/post3-firefox-startpage.png"
+description: This guide will walk you through the process of setting up a custom startup page in both Firefox and Chrome.
+seo_custom:
+   name: keywords
+   content: firefox, chrome, startup-page, customization
 ---
 
 ## Introduction
@@ -11,8 +16,7 @@ Setting up a custom startup page in your web browser allows you to personalize y
 
 ### Firefox
 
-![A picture of my firefox custom page](https://raw.githubusercontent.com/fadh1l/TheBlog/main/_posts/assets/post3-firefox-startpage.png "Simple Start")
-
+- Above picture is my firefox custom page
 1. Launch Firefox and click on the menu button (three horizontal lines) in the top-right corner.
 2. Select "Options" from the dropdown menu. This will open the Firefox Options page.
 3. In the left sidebar, click on "Home & New Tab" to access the home page settings.
